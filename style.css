@@ -1,6 +1,16 @@
 body{
     background-image: url(./img/world.svg);
     background-repeat: repeat-x;
-    background-size: cover;
+    background-size: auto;
     margin: 0 auto;
   }
+
+h1 {
+  color: black;
+  text-align: justify;
+}
+
+p {
+  font-family: monospace;
+  font-size: 20px;
+}
